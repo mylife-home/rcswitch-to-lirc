@@ -9,4 +9,4 @@ const res = lircdConfigGenerator({
   group
 });
 
-console.log(JSON.stringify(res, null, 2));
+console.log(res);
