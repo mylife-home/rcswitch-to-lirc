@@ -1,0 +1,18 @@
+{
+  "name": "rcswitch-to-lirc",
+  "version": "0.0.1",
+  "description": "converter from rcswitch-pi to lirc config files",
+  "main": "index.js",
+  "repository": "https://github.com/vincent-tr/rcswitch-to-lirc",
+  "author": "Vincent Trumpff",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "*",
+    "jshint": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/*.js"
+  }
+}
