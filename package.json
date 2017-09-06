@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "converter from rcswitch-pi to lirc config files",
   "main": "index.js",
-  "repository": "https://github.com/vincent-tr/rcswitch-to-lirc",
+  "repository": "https://github.com/mylife-home/rcswitch-to-lirc",
   "author": "Vincent Trumpff",
   "dependencies": {
   },
